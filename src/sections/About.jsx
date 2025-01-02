@@ -79,9 +79,9 @@ function About() {
         <div className=" flex justify-between items-center flex-col sm:flex-row gap-3">
           <div className=" w-full sm:w-1/2 flex justify-center">
             <img
-              src="assets/asset 26.svg"
+              src="images/about.jpeg"
               alt=""
-              className="h-[450px] shadow-md border border-[#ffffff00]"
+              className="h-[450px] rounded-xl shadow-md border border-[#ffffff00]"
               ref={card}
             />
           </div>
@@ -109,14 +109,14 @@ function About() {
                 ))
               )}
             </h2>
-                <h2 className="text-4xl txt-grad sm:text-6xl font-manbold pb-4 font-medium  items-center gap-x-4 text-center block sm:hidden ">Unlock
-Revenue
-Growth
-for
-your
-  Business</h2>
+            <h2 className="text-4xl txt-grad sm:text-6xl font-manbold pb-4 font-medium  items-center gap-x-4 text-center block sm:hidden ">
+              Unlock Revenue Growth for your Business
+            </h2>
             <p ref={para1} className="text-lg text-center sm:text-start">
-            Mark8 elevate your marketing strategy through exceptional customer experiences and advanced tools. With our deep expertise in the Web3 space, we ensure your product not only stands out but also captures the attention it merits.
+              Mark8 elevate your marketing strategy through exceptional customer
+              experiences and advanced tools. With our deep expertise in the
+              Web3 space, we ensure your product not only stands out but also
+              captures the attention it merits.
             </p>
 
             <p ref={para2} className=" text-lg my-8 text-center sm:text-start">
@@ -125,11 +125,15 @@ your
             </p>
 
             <div className=" flex justify-center sm:justify-start items-center">
-            <a ref={button1} href="https://t.me/Mark8_Io" target="_blank" className="inline-block  shadow-xl   py-2 px-4 font-archo text-center text-base rounded-3xl font-manbold font-bold   bg-[#005dff] hover:bg-[#0000] hover:border " >
-              {" "}
-              Get Started
-            </a>
-
+              <a
+                ref={button1}
+                href="https://t.me/Mark8_Io"
+                target="_blank"
+                className="inline-block  shadow-xl   py-2 px-4 font-archo text-center text-base rounded-3xl font-manbold font-bold   bg-[#005dff] hover:bg-[#0000] hover:border "
+              >
+                {" "}
+                Get Started
+              </a>
             </div>
           </div>
         </div>
