@@ -7,36 +7,43 @@ function BelowSec() {
 
       <div className=" my-6">
         <p className=" text-center font-manbold text-white text-xl sm:text-4xl py-2  ">
-        Our <span className=" txt-grad font-bold">Crypto Marketing</span> Agency Attracts Over 
+        Our <span className=" txt-grad font-bold">Doge AI</span> identifies patterns, 
         </p>
 
         <p className=" text-center font-manbold text-white text-xl sm:text-4xl  py-1 ">
-        <span className=" txt-grad font-bold">100's  </span> of  New Token Holders Per Month for 
+        <span className=" txt-grad font-bold">detects trends,  </span>  and uncovers opportunities that most traders miss  
         </p>
 
         <p className=" text-center font-manbold text-white text-2xl sm:text-4xl py-1  ">
-        Our Clients.
+        
         </p>
       </div>
-      <Marquee direction='right'>
+      <Marquee direction='right' className="bg-[#0f131c7e] py-3">
 
-         <img src="images/flox.png" alt="" className=' mx-auto px-3' />
-            <img src="images/ordy.svg" alt="" className=' mx-auto px-3' />
-            <img src="images/strike.png" alt="" className=' mx-auto px-3' />
-            <img src="images/thol.webp" alt="" className=' mx-auto  px-3 h-[30px]' />
-            <img src="images/gain.svg" alt="" className=' mx-auto px-3 ' />
-            <img src="https://plots.ethxy.com/images/logo.png" alt=""  className=' mx-auto h-[40px] px-3'/>
-            <img src="images/xrp.png" alt="" className=' mx-auto invert px-3  h-[40px]' />
-            <img src="images/play.svg" alt="" className=' mx-auto  px-3  h-[40px]' />
-            <img src="images/ben.webp" alt="" className=' mx-auto  px-3  h-[40px]' />
-            <img src="images/strike.png" alt="" className=' mx-auto px-3' />
-            <img src="images/thol.webp" alt="" className=' mx-auto  px-3 h-[30px]' />
-
-            <img src="images/vikita.jpg" alt=""  className=' mx-auto h-[50px] px-3 rounded-full' />
-            <img src="images/blaz.jpg" alt="" className=' mx-auto invert px-3  h-[40px] rounded-full' />
-            <img src="images/eco.jpg" alt="" className=' mx-auto  px-3  h-[40px] rounded-full' />
-            <img src="images/dao.jpg" alt="" className=' mx-auto  px-3  h-[40px] rounded-full' />
-            <img src="images/act.jpg" alt="" className=' mx-auto  px-3  h-[40px] rounded-full' />
+      <h1 className='font-pixel text-4xl font-bold text-white mx-2'>Rayduim</h1>
+    <h1 className='font-pixel text-4xl font-bold txt-grad mx-2'>!!!</h1>
+    <h1 className='font-pixel text-4xl font-bold text-white mx-2'>Jupiter</h1>
+    <h1 className='font-pixel text-4xl font-bold txt-grad mx-2'>!!!</h1>
+    <h1 className='font-pixel text-4xl font-bold text-white mx-2'>Rayduim</h1>
+    <h1 className='font-pixel text-4xl font-bold txt-grad mx-2'>!!!</h1>
+    <h1 className='font-pixel text-4xl font-bold text-white mx-2'>Jupiter</h1>
+    <h1 className='font-pixel text-4xl font-bold txt-grad mx-2'>!!!</h1>
+    <h1 className='font-pixel text-4xl font-bold text-white mx-2'>Rayduim</h1>
+    <h1 className='font-pixel text-4xl font-bold txt-grad mx-2'>!!!</h1>
+    <h1 className='font-pixel text-4xl font-bold text-white mx-2'>Jupiter</h1>
+    <h1 className='font-pixel text-4xl font-bold txt-grad mx-2'>!!!</h1>
+    <h1 className='font-pixel text-4xl font-bold text-white mx-2'>Rayduim</h1>
+    <h1 className='font-pixel text-4xl font-bold txt-grad mx-2'>!!!</h1>
+    <h1 className='font-pixel text-4xl font-bold text-white mx-2'>Jupiter</h1>
+    
+    <h1 className='font-pixel text-4xl font-bold txt-grad mx-2'>!!!</h1>
+    <h1 className='font-pixel text-4xl font-bold text-white mx-2'>Rayduim</h1>
+    <h1 className='font-pixel text-4xl font-bold txt-grad mx-2'>!!!</h1>
+    <h1 className='font-pixel text-4xl font-bold text-white mx-2'>Jupiter</h1>
+    <h1 className='font-pixel text-4xl font-bold txt-grad mx-2'>!!!</h1>
+    <h1 className='font-pixel text-4xl font-bold text-white mx-2'>Rayduim</h1>
+    <h1 className='font-pixel text-4xl font-bold txt-grad mx-2'>!!!</h1>
+    <h1 className='font-pixel text-4xl font-bold text-white mx-2'>Jupiter</h1>
 
 
 
@@ -122,7 +129,7 @@ function BelowSec() {
       </div> */}
 
       <p className=" text-center text-xs text-[#cfcfcf] py-4">
-      Experience in promoting 90+ Crypto, NFT and Web3 projects
+      Experience cutting-edge algorithms and real-time updates Doge AI
       </p>
     </section>
   );

@@ -3,12 +3,10 @@ import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 import About from "./sections/About";
 import BelowSec from "./sections/BelowSec";
-import ContactUs from "./sections/ContactUs";
 import Cta from "./sections/Cta";
 import Hero2 from "./sections/Hero2";
-import OurPartners from "./sections/OurPartners";
 import Services from "./sections/Services";
-import WhatotherSay from "./sections/WhatotherSays";
+
 
 function App() {
   return (
@@ -34,18 +32,6 @@ function App() {
         <div>
           <Cta />
         </div>
-        {/* <div className=" py-8">
-          <WhatotherSay />
-        </div> */}
-
-        {/* <div className=" py-8">
-          <ContactUs />
-        </div> */}
-
-        {/* <div className=" py-8">
-          <OurPartners />
-        </div> */}
-
         <CoinMarquee />
         <div className="">
           <Footer />

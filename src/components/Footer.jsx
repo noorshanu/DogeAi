@@ -7,14 +7,13 @@ function Footer() {
     <section className=" relative mt-1">
       <div className=" container-wrapper border-t border-[#005eff9d]">
         <div className=" flex justify-between flex-col sm:flex-row items-center mt-4 ">
-          <div>
-            <img src="images/logo.png" alt="" className=" h-[140px]" />
+        <div className="flex items-center flex-shrink-0 gap-4 mr-6">
+            <img src="images/logo.jpeg" alt="" className=" h-[140px] rounded-full" />
+            <p className=" font-pixel text-2xl font-bold">DOGEAI</p>
           </div>
 
           <div className=" flex items-center justify-center flex-col sm:flex-row gap-4">
-            <a href="/" className=" text-sm font-thin"> Privacy & Policy</a>
-
-            <a href="/" className=" text-sm font-thin" >Terms & Conditions</a>
+          © 2024 DogeAI All rights reserved
           </div>
 
           <div>
@@ -55,11 +54,7 @@ function Footer() {
         </div>
       </div>
 
-      <div>
-        <p className=" text-center font-thin text-[#ddd]">
-          © 2024 Mark8.io. All rights reserved
-        </p>
-      </div>
+
     </section>
   );
 }

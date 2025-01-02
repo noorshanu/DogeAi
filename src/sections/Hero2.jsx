@@ -125,7 +125,9 @@ const Hero2 = () => {
 
       <div className="flex flex-col items-center text-center max-w-[1280px] px-[4vw] gap-8 mb-36 z-10">
         <p className="text-lg sm:text-xl font-manreg leading-[1.6]">
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis repudiandae unde assumenda corporis impedit dolore magni, facilis provident quos totam placeat distinctio sunt tempora fuga animi a! Vero, explicabo distinctio!
+        Doge AI: Ignite the Power of Insider Alpha for Explosive Gains!
+
+Unlock the future of intelligent trading with Doge AI – your ultimate companion in harnessing insider insights and market alpha.
 </p>
         <div className="flex gap-7 text-[42px]">
           <a
