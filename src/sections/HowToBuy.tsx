@@ -30,7 +30,7 @@ function HowToBuy() {
             <h3 className="text-2xl sm:text-3xl font-bold mb-4 text-white text-center font-pixel">
               GET SOME SOL
             </h3>
-            <p className="text-[14px] sm:text-[16px] mb-2 text-black font-bold text-center ">
+            <p className="text-[14px] sm:text-[16px] mb-2 text-black  text-center ">
               HAVE SOL IN YOUR WALLET TO SWITCH TO $CHILLGUY. IF YOU DON'T HAVE
               ANY SOL, YOU CAN BUY DIRECTLY ON PHANTOM, TRANSFER FROM ANOTHER
               WALLET, OR BUY ON ANOTHER EXCHANGE AND SEND IT TO YOUR WALLET.
@@ -46,7 +46,7 @@ function HowToBuy() {
             <h3 className="text-2xl sm:text-3xl font-bold mb-4 text-white text-center font-pixel">
               GO TO JUPITER
             </h3>
-            <p className="text-[14px] sm:text-[16px] mb-2 text-black font-bold text-center ">
+            <p className="text-[14px] sm:text-[16px] mb-2 text-black f text-center ">
               CONNECT TO JUPITER. CONNECT YOUR WALLET IN CHROME, PASTE THE
               $CHILLGUY TOKEN ADDRESS, SELECT TRADE, AND CONFIRM. WHEN PHANTOM
               PROMPTS YOU FOR A WALLET SIGNATURE, SIGN.
@@ -62,7 +62,7 @@ function HowToBuy() {
             <h3 className="text-2xl sm:text-3xl font-bold mb-4 text-white text-center font-pixel">
               SWAP FOR DOGEAI
             </h3>
-            <p className="text-[14px] sm:text-[16px] mb-2 text-black font-bold text-center ">
+            <p className="text-[14px] sm:text-[16px] mb-2 text-black text-center ">
               SWITCH SOL FOR $DogeAI. WE HAVE ZERO TAXES SO YOU DON'T NEED TO
               WORRY ABOUT BUYING WITH A SPECIFIC SLIPPAGE. IF YOU DON'T HAVE ANY
               SOL, YOU CAN BUY DIRECTLY ON PHANTOM.
