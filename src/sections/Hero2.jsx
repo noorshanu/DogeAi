@@ -141,7 +141,7 @@ Unlock the future of intelligent trading with Doge AI – your ultimate companio
 
           <a
             target="_blank"
-            href="https://twitter.com/"
+            href="https://x.com/DogeAI_AgentSol"
             className="hover:text-prime transition-all duration-200"
           >
             <FaTwitter />
@@ -149,7 +149,7 @@ Unlock the future of intelligent trading with Doge AI – your ultimate companio
 
           <a
             target="_blank"
-            href="https://t.me/" 
+            href="https://t.me/DogeAI_AgentSol" 
             className="hover:text-prime transition-all duration-200"
           >
           <FaTelegramPlane/>

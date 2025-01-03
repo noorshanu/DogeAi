@@ -111,7 +111,7 @@ function About() {
               )}
             </h2>
             <h2 className="text-4xl font-pixel txt-grad sm:text-6xl pb-4 font-medium  items-center gap-x-4 text-center block sm:hidden ">
-              Unlock Revenue Growth for your Business
+             About DOGEAI
             </h2>
             <p ref={para1} className="text-lg text-center sm:text-start">
               Your alpha for pumps and Lambo rides. Powered by exclusive access

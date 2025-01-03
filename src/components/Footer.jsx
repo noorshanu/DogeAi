@@ -28,7 +28,7 @@ function Footer() {
 
               <a
                 target="_blank"
-                href="https://twitter.com/"
+                href="https://x.com/DogeAI_AgentSol"
                 className="hover:text-prime transition-all duration-200"
               >
                 <FaTwitter />
@@ -36,7 +36,7 @@ function Footer() {
 
               <a
                 target="_blank"
-                href="https://t.me/"
+                href="https://t.me/DogeAI_AgentSol"
                 className="hover:text-prime transition-all duration-200"
               >
                 <BsTelegram />
