@@ -20,7 +20,7 @@ function Footer() {
             <div className="flex gap-7 text-[42px]">
               <a
                 target="_blank"
-                href="https://www.instagram.com/mark8.io/"
+                href="https://www.instagram.com/"
                 className="hover:text-prime transition-all duration-200"
               >
                 <FaInstagram />
@@ -28,7 +28,7 @@ function Footer() {
 
               <a
                 target="_blank"
-                href="https://twitter.com/Mark_8_"
+                href="https://twitter.com/"
                 className="hover:text-prime transition-all duration-200"
               >
                 <FaTwitter />
@@ -36,7 +36,7 @@ function Footer() {
 
               <a
                 target="_blank"
-                href="https://t.me/Mark8_Io"
+                href="https://t.me/"
                 className="hover:text-prime transition-all duration-200"
               >
                 <BsTelegram />

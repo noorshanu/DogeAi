@@ -37,12 +37,12 @@ function Navbar() {
            About us
           </a>
           <a href="#services" className="text-white font-bold text-lg px-3 py-2 cursor-pointer">
-            Services
+           Tokenomics
           </a>
 
          
           <a href="#contact" className="text-white font-bold text-lg px-3 py-2 cursor-pointer">
-            Contact us
+           Products
           </a>
         </div>
 
@@ -115,19 +115,19 @@ function Navbar() {
               href="#services"
               className="text-white font-bold text-lg block px-3 py-2"
             >
-           Services
+       Tokenomices
             </a>
 
             <div className=" flex items-center gap-4 text-white mb-6 ml-5">
               <a
-                href="https://twitter.com/Mark_8_"
+                href="https://twitter.com/"
                 className=" text-xl text-white bg-black hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
               >
                 <BsTwitterX />
               </a>
 
               <a
-                href="https://t.me/Mark8_Announcements"
+                href="https://t.me/"
                 target="_blank"
                 rel="noreferrer"
                 className=" text-xl text-white bg-black hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"

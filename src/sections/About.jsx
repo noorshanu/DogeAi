@@ -4,11 +4,12 @@ import React, { useEffect, useRef } from "react";
 
 const heading = [
   {
-    text: "Unlock Revenue Growth for your",
+    text: "About",
+    className: "font-pixel",
   },
   {
-    text: "Business",
-    className: "txt-grad font-bold text-center",
+    text: "DOGEAI",
+    className: "txt-grad font-bold font-pixel text-center",
   },
 ];
 
@@ -109,30 +110,31 @@ function About() {
                 ))
               )}
             </h2>
-            <h2 className="text-4xl txt-grad sm:text-6xl font-manbold pb-4 font-medium  items-center gap-x-4 text-center block sm:hidden ">
+            <h2 className="text-4xl font-pixel txt-grad sm:text-6xl pb-4 font-medium  items-center gap-x-4 text-center block sm:hidden ">
               Unlock Revenue Growth for your Business
             </h2>
             <p ref={para1} className="text-lg text-center sm:text-start">
-              Mark8 elevate your marketing strategy through exceptional customer
-              experiences and advanced tools. With our deep expertise in the
-              Web3 space, we ensure your product not only stands out but also
-              captures the attention it merits.
+              Your alpha for pumps and Lambo rides. Powered by exclusive access
+              to private alpha groups and crypto KOLs for top holders, Doge AI
+              taps into covert networks to deliver insider insights straight
+              from the industry's biggest players. Stay ahead with intel others
+              can’t reach!
             </p>
 
             <p ref={para2} className=" text-lg my-8 text-center sm:text-start">
-              Partner with us and watch your brand thrive in the digital
-              frontier.
+            Provides insider market signals from crypto KOLs and private alpha groups using AI-powered analysis.
+
             </p>
 
             <div className=" flex justify-center sm:justify-start items-center">
               <a
                 ref={button1}
-                href="https://t.me/Mark8_Io"
+                href="https://t.me/"
                 target="_blank"
                 className="inline-block  shadow-xl   py-2 px-4 font-archo text-center text-base rounded-3xl font-manbold font-bold   bg-[#005dff] hover:bg-[#0000] hover:border "
               >
                 {" "}
-                Get Started
+                Buy Now
               </a>
             </div>
           </div>

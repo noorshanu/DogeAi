@@ -57,7 +57,7 @@ function Services() {
 
           <h1
             ref={text2}
-            className=" text-center text-3xl sm:text-5xl font-manbold font-bold py-2"
+            className=" text-center text-3xl sm:text-6xl font-pixel font-bold py-2"
           >
             Our products
           </h1>

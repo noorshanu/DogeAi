@@ -5,7 +5,9 @@ import About from "./sections/About";
 import BelowSec from "./sections/BelowSec";
 import Cta from "./sections/Cta";
 import Hero2 from "./sections/Hero2";
+import HowToBuy from "./sections/HowToBuy";
 import Services from "./sections/Services";
+import Tokenomics from "./sections/Tokenomics";
 
 
 function App() {
@@ -25,12 +27,14 @@ function App() {
         <About />
 
         <div className=" h-[30px]"></div>
+        <Tokenomics/>
+        <div className=" h-[30px]"></div>
 
         <Services />
         <div className=" h-[30px]"></div>
 
         <div>
-          <Cta />
+         <HowToBuy/>
         </div>
         <CoinMarquee />
         <div className="">

@@ -2,6 +2,7 @@ import gsap from "gsap";
 import React, { useEffect, useRef } from "react";
 import { FaFacebook, FaTelegramPlane, FaTwitter } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa6";
+import CopyAddress from "./CopyAddress";
 
 const Hero2 = () => {
   const heading = useRef();
@@ -132,7 +133,7 @@ Unlock the future of intelligent trading with Doge AI – your ultimate companio
         <div className="flex gap-7 text-[42px]">
           <a
             target="_blank"
-            href="https://www.instagram.com/mark8.io/"
+            href="https://www.instagram.com/"
             className="hover:text-prime transition-all duration-200"
           >
             <FaInstagram />
@@ -140,7 +141,7 @@ Unlock the future of intelligent trading with Doge AI – your ultimate companio
 
           <a
             target="_blank"
-            href="https://twitter.com/Mark_8_"
+            href="https://twitter.com/"
             className="hover:text-prime transition-all duration-200"
           >
             <FaTwitter />
@@ -148,11 +149,16 @@ Unlock the future of intelligent trading with Doge AI – your ultimate companio
 
           <a
             target="_blank"
-            href="https://t.me/Mark8_Io" 
+            href="https://t.me/" 
             className="hover:text-prime transition-all duration-200"
           >
           <FaTelegramPlane/>
           </a>
+        </div>
+        <div  
+           className=" flex mt-4 mb-2 items-center justify-center gap-2  relative z-20 py-1 bg-black border-t-2 border-l-2 border-r-2 border-prime rounded-2xl w-full max-w-full sm:max-w-xl px-4 mx-auto">
+          <CopyAddress />{" "}
+        
         </div>
       </div>
     </div>
