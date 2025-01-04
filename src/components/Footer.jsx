@@ -20,15 +20,15 @@ function Footer() {
             <div className="flex gap-7 text-[42px]">
               <a
                 target="_blank"
-                href="https://www.instagram.com/"
+                href="#"
                 className="hover:text-prime transition-all duration-200"
               >
-                <FaInstagram />
+               <img src="images/dextools.svg" alt="" className=" w-auto h-[44px]"/>
               </a>
 
               <a
                 target="_blank"
-                href="https://x.com/DogeAI_AgentSol"
+                href="https://x.com/DogeAiagents"
                 className="hover:text-prime transition-all duration-200"
               >
                 <FaTwitter />

@@ -36,12 +36,12 @@ function Navbar() {
           <a href="#about" className="text-white font-bold text-lg px-3 py-2 cursor-pointer">
            About us
           </a>
-          <a href="#services" className="text-white font-bold text-lg px-3 py-2 cursor-pointer">
+          <a href="#token" className="text-white font-bold text-lg px-3 py-2 cursor-pointer">
            Tokenomics
           </a>
 
          
-          <a href="#contact" className="text-white font-bold text-lg px-3 py-2 cursor-pointer">
+          <a href="#prod" className="text-white font-bold text-lg px-3 py-2 cursor-pointer">
            Products
           </a>
         </div>
@@ -112,7 +112,7 @@ function Navbar() {
               About us
             </a>
             <a
-              href="#services"
+              href="#tokern"
               className="text-white font-bold text-lg block px-3 py-2"
             >
        Tokenomices
@@ -120,7 +120,7 @@ function Navbar() {
 
             <div className=" flex items-center gap-4 text-white mb-6 ml-5">
               <a
-                href="https://x.com/DogeAI_AgentSol"
+                href="https://x.com/DogeAiagents"
                 className=" text-xl text-white bg-black hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
               >
                 <BsTwitterX />

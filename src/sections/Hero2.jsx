@@ -86,17 +86,7 @@ const Hero2 = () => {
             ref={mobile}
             className="absolute z-10 w-full max-w-[320px] sm:max-w-[600px] lg:max-w-[min(800px,20vw)] flex justify-center items-center isolate"
           >
-            {/* <img
-              draggable={false}
-              src="/images/phone-screen.png"
-              className="-z-10 absolute h-[97%] rounded-[15px]"
-            /> */}
-             {/* <div className="video-container -z-10 absolute h-[100%] p-2 rounded-[70px] bg-[#000]">
-          <video muted autoPlay loop playsInline>
-            <source src="/images/mark.mov" type="video/mp4" />
-            Your browser does not support the video tag.
-          </video>
-        </div> */}
+         
             <img
               draggable={false}
              
@@ -133,15 +123,15 @@ Unlock the future of intelligent trading with Doge AI – your ultimate companio
         <div className="flex gap-7 text-[42px]">
           <a
             target="_blank"
-            href="https://www.instagram.com/"
+            href="#"
             className="hover:text-prime transition-all duration-200"
           >
-            <FaInstagram />
+          <img src="images/dextools.svg" alt="" className=" w-auto h-[44px]"/>
           </a>
 
           <a
             target="_blank"
-            href="https://x.com/DogeAI_AgentSol"
+            href="https://x.com/DogeAiagents"
             className="hover:text-prime transition-all duration-200"
           >
             <FaTwitter />

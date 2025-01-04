@@ -2,7 +2,7 @@ import React from "react";
 
 function Tokenomics() {
   return (
-    <section>
+    <section id="token">
       <div className=" relative flex flex-col sm:flex-row justify-evenly items-center gap-8 py-[2%]  mt-8 ">
         <h1 className=" txt-s font-pixel text-white text-5xl sm:text-[100px] text-center">
           Tokenomics
