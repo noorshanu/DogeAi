@@ -123,7 +123,7 @@ Unlock the future of intelligent trading with Doge AI – your ultimate companio
         <div className="flex gap-7 text-[42px]">
           <a
             target="_blank"
-            href="#"
+            href="https://www.dextools.io/app/en/solana/pair-explorer/G6q8x9BY18dFcPF3PMawhGVKoHJwgph5UKDSaLeooi1V?t=1736346853012"
             className="hover:text-prime transition-all duration-200"
           >
           <img src="images/dextools.svg" alt="" className=" w-auto h-[44px]"/>
